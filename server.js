@@ -111,7 +111,7 @@ app.use(
 // ==============================
 
 const productRoutes =
-    require("./routes/productroutes");
+    require('./routes/productRoutes');
 
 const userRoutes =
     require("./routes/userroutes");
