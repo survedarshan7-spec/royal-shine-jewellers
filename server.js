@@ -114,7 +114,7 @@ const productRoutes =
     require('./routes/productRoutes');
 
 const userRoutes =
-    require("./routes/userroutes");
+    require("./routes/userRoutes");
 
 const orderRoutes =
     require("./routes/orderroutes");
