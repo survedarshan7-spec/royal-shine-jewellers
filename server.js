@@ -120,10 +120,10 @@ const orderRoutes =
     require("./routes/orderRoutes");
 
 const billRoutes =
-    require("./routes/billroutes");
+    require("./routes/billRoutes");
 
 const settingsRoutes =
-    require("./routes/settingsroutes");
+    require("./routes/settingsRoutes");
 
 // ==============================
 // API ROUTES

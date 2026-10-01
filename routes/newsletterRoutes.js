@@ -4,7 +4,7 @@ const {
     subscribeNewsletter,
     getSubscribers,
     deleteSubscriber
-} = require("../controllers/NewsletterController");
+} = require("../controllers/newsletterController");
 
 const router = express.Router();
 
